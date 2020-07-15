@@ -1,0 +1,15 @@
+body{
+	background: gray;
+	font-size: 100%;
+}
+section{
+	color: maroon;
+	font-size: 22px;
+	font-style: italic;
+}
+h2{
+	color: black;
+}
+.li{
+	color: black;
+}
