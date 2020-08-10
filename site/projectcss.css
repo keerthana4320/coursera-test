@@ -21,7 +21,7 @@ h2{
 .links a:hover, .links a:active{
 	background-color: lightblue;
 }
-hr{
+.line{
 	border: 0.5px solid black;
 }
 section{
