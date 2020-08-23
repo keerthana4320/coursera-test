@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     box-sizing: border-box;}
 
@@ -41,4 +42,49 @@ hr {
 @media (min-width: 1200px) { 
 
 
+=======
+* {
+    box-sizing: border-box;}
+
+
+
+h1 {margin-bottom: 50px;}
+
+.container {
+	background-color: grey;
+	
+}
+
+.first, .second, .third {
+	margin-bottom: 50px;
+}
+
+hr {
+	border: black;
+}
+
+.navbar-nav li {
+  display: inline-block;
+  text-align: center;
+}
+
+/ Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+
+
+ }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+
+
+>>>>>>> a4ab5539ad3479323181421aef7f8657cc5ca94d
 }

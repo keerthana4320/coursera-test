@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (function(){
 var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 for(var i=0; i < names.length; i++)
@@ -11,4 +12,19 @@ for(var i=0; i < names.length; i++)
 		hellospeaker(names[i]);
 	}
 }
+=======
+(function(){
+var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+for(var i=0; i < names.length; i++)
+{
+	if(names[i][0]=='j'||names[i][0]=='J')
+	{
+		byespeaker(names[i]);
+	}
+	else
+	{
+		hellospeaker(names[i]);
+	}
+}
+>>>>>>> a4ab5539ad3479323181421aef7f8657cc5ca94d
 })();
