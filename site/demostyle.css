@@ -1,0 +1,15 @@
+*{
+	box-sizing: box-border;
+}
+.first{
+	background-color: gray;
+	padding: 10px;
+	float: left;
+	width: 100%;
+	margin-right: 100px;
+}
+p{
+	padding: 10px 10px 10px 10px;
+	background-color: yellow;
+	float: right;top: 0;left: 0;bottom: 0;margin: 0;
+}

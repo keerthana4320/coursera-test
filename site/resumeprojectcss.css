@@ -1,0 +1,33 @@
+body{
+	background-color: pink;
+	text-align: center;
+	color: black;
+	font-family: sans-serif;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+a:link, a:visited{
+	background-color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+
+}
+a:hover, a:active{
+	background-color: lightblue;
+}
+@media screen and (max-width: 900px){
+	.column{
+		width: 50%;
+	}
+}
+@media screen and (max-width: 600px){
+	.column{
+		width: 100%;
+	}
+}
